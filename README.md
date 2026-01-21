@@ -1,8 +1,6 @@
-# olist-data-engineering-pipeline
-End-to-end Data Engineering pipeline using PostgreSQL to model 100k+ orders. Includes DDL, Constraints (PK/FK), and Analytics.
-
 #  Olist Data Engineering Pipeline
 
+Pipeline de Engenharia de Dados completo usando PostgreSQL para modelar mais de 100 mil pedidos. Inclui DDL, restrições (chave primária/chave estrangeira) e análises.
 Este projeto demonstra a construção de um ecossistema de dados do zero, simulando um ambiente real de Engenharia de Dados com foco em performance e integridade.
 
 ##  Tecnologias Utilizadas
